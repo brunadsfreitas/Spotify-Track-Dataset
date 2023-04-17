@@ -1,6 +1,7 @@
 # Spotify-Track-Dataset
 
-Here i'm made an analysis about records from Spotify, there is a data set with these atributes
+Here I'm made an analysis about records from Spotify, there is a data set with these atributes
+
 Columns Description:
 
 track_id: The Spotify ID for the track
